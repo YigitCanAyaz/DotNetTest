@@ -17,6 +17,8 @@ namespace DotNetTest.Controllers
         {
             ViewBag.Message = "Your application description page.";
 
+            a = 5
+
             return View();
         }
 
